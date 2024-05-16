@@ -1,4 +1,5 @@
-##Pneumonia Detection Model using Convolutional Neural Network (CNN)
+#Pneumonia Detection Model using Convolutional Neural Network (CNN)
+
 This repository contains a deep learning model implemented with a Convolutional Neural Network (CNN) to detect pneumonia from chest X-ray images. The model is designed to classify X-ray images as either showing signs of pneumonia or being normal.
 
 Dataset
